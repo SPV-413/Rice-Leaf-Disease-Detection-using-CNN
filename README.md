@@ -32,7 +32,7 @@ Each class contains **40 images**:
 | Without Augmentation  |  74%     |
 | With Augmentation     |  87%     |
 
-## CONCLUSION
+## Conclusion
 - The CNN model without data augmentation achieved an accuracy of 74%, while the model with data augmentation reached a higher accuracy of 87%.
 - This demonstrates that data augmentation effectively improved the model’s ability to generalize by introducing variability in the training data. It helped reduce overfitting and enhanced overall performance.
 - Moreover, the augmented model was better at correctly predicting class labels, as reflected in the improved match between actual and predicted images.
