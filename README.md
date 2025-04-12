@@ -10,7 +10,7 @@ Each class contains **40 images**:
 - **Brown Spot**
 - **Bacterial Leaf Blight**
 
-## Workflow
+## Project Workflow
 
 1. Load and preprocess images.
 2. Build CNN model.
