@@ -31,3 +31,6 @@ Each class contains **40 images**:
 |-----------------------|----------|
 | Without Augmentation  |  74%     |
 | With Augmentation     |  87%     |
+
+# Contact
+For any inquiries, reach out via GitHub or email.
